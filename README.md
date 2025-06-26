@@ -11,12 +11,6 @@ A sleek and interactive HR dashboard built with **Next.js App Router**, **Tailwi
 
 ---
 
-## 🚀 Live Demo
-
-To deploy this project, follow the deployment guide below or deploy directly to [Vercel](https://vercel.com) with a GitHub repo.
-
----
-
 ## 🔧 Tech Stack
 
 - **Framework:** Next.js 14 (App Router)
@@ -91,6 +85,16 @@ To deploy this project, follow the deployment guide below or deploy directly to 
 - 🔹 Modular folder structure with hooks, components, pages, and lib
 
 ---
+
+## 📸 Screenshots
+
+![alt text](https://github.com/Girishun-Kumar-R/HR-Dashboard/blob/9e26d60348a968289dec4b5ca6c237b88617234a/Screenshots/Home%20dashboard.png)
+🏠 Home Dashboard
+
+![alt text](https://github.com/Girishun-Kumar-R/HR-Dashboard/blob/9e26d60348a968289dec4b5ca6c237b88617234a/Screenshots/Analystics%20Dashboard.png)
+📊 Analytics Dashboard
+
+* For more, please visit Screenshots [click here](https://github.com/Girishun-Kumar-R/HR-Dashboard/tree/main/Screenshots)
 
 ## 🛠️ Local Development
 
