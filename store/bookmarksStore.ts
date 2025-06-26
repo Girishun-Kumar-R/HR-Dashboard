@@ -4,6 +4,7 @@ type BookmarkState = {
   bookmarks: any[];
   history: { date: string; count: number }[];
   toggleBookmark: (user: any) => void;
+  removeBookmark: (id: number) => void;
 };
 
 export const useBookmarks = create<BookmarkState>((set, get) => ({
